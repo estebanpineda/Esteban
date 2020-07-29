@@ -2,7 +2,7 @@
 Hola soy [Esteban] 👋
 
 ![Edad](https://img.shields.io/badge/age-27-blue)
-![Vivo](https://img.shields.io/badge/vivo-España)
+![Vivo](https://img.shields.io/badge/vivo-España-3c9)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 <br />
