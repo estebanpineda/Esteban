@@ -7,7 +7,7 @@ Hola soy [Esteban](https://github.com/estebanpineda) 👋
 
 - 🔭 Actualmente estoy estudiado desarrollo web
 - 🌱 Actualmente estoy aprendiendo programacion 
-- ⚡ Lenguages: Bash..
+- ⚡ Lenguajes: Bash..
 
 
 <br />
