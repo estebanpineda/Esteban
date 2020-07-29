@@ -1,5 +1,5 @@
 # Esteban
-Hola soy [https://github.com/estebanpineda] 👋
+Hola soy (https://github.com/estebanpineda) 👋
 
 ![Edad](https://img.shields.io/badge/Edad-27-blue)
 ![Pais](https://img.shields.io/badge/Pais-España-FC0902)
