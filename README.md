@@ -2,7 +2,7 @@
 Hola soy [Esteban] 👋
 
 ![Edad](https://img.shields.io/badge/Edad-27-blue)
-![Vivo en](https://img.shields.io/badge/vivo-España-3c9)
+![Vivo](https://img.shields.io/badge/vivo-en-España-3c9)
 
 
 <br />
