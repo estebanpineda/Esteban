@@ -7,7 +7,7 @@ Hola soy [Esteban](https://github.com/estebanpineda) 👋
 
 <br />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img 
 
 
 ⭐️  [Esteban](https://github.com/estebanpineda)
