@@ -7,8 +7,7 @@ Hola soy [Esteban](https://github.com/estebanpineda) 👋
 
 <br />
 
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
-dth="50"><img 
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />dth="50"><img 
 
 
 ⭐️  [Esteban](https://github.com/estebanpineda)
