@@ -12,7 +12,7 @@ Hola soy [Esteban](https://github.com/estebanpineda) 👋
 
 <br />
 
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://hackernoon.com/images/f2px36fy.gif" />
+<img width = "60%" align="right" alt="GIF" height="300px" src="https://hackernoon.com/images/f2px36fy.gif" />
 
 
 ⭐️  [Esteban](https://github.com/estebanpineda)
